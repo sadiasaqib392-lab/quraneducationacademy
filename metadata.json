@@ -1,0 +1,6 @@
+{
+  "name": "Quran Education Academy",
+  "description": "Quran Education Academy - Online Quran learning and academy platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
