@@ -8,4 +8,12 @@
     margin: 0;
     padding: 0;
   }
+
+  body {
+    background-image: url("/backgrond.jpg.jpeg");
+    background-repeat: repeat;
+    background-attachment: fixed;
+    background-size: 366px 178px;
+    background-color: #faf8f5;
+  }
 }
